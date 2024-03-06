@@ -1,0 +1,19 @@
+.block {
+  border: 1px solid #000;
+}
+
+.block_border-dash {
+  border-style: dashed;
+}
+
+.bg_yellow {
+  background-color: #ffff00;
+}
+
+.bg_green {
+  background-color: #41b941;
+}
+
+.bg_blue {
+  background-color: #608fff;
+}
